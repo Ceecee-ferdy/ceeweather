@@ -8,7 +8,7 @@ Users can search for cities, view current weather conditions, save recent search
 
 ## 🚀 Live Demo
 
-[View Live Project]()
+[View Live Project]( https://ceecee-ferdy.github.io/ceeweather/)
 
 ---
 
