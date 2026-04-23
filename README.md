@@ -59,19 +59,6 @@ Through this project, I practiced:
 * Structuring JavaScript into reusable functions
 * Building interactive frontend applications
 
----
-
-## 📂 Folder Structure
-
-project-folder/
-│
-├── index.html
-├── style/
-│   └── general.css
-├── script/
-│   └── app.js
-├── images/
-└── README.md
 
 ---
 
