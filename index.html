@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CeeWeather | Real-Time Weather App</title>
+  <link rel="stylesheet" href="style/app.css">
+</head>
+<body>
+  <div class="app-container">
+
+    <h1 class="app-title">
+      Weather App
+    </h1>
+
+    <div class="search-section">
+     <input type="text" placeholder="Search city (e.g. Lagos)" class="js-city-input city-input">
+     <button class="js-search-button search-button">
+      Search
+     </button>
+    </div>
+
+    <div class="weather-result js-weather-result">
+      <!-- Weather will show here -->
+    </div>
+
+    <div class="recent-searches">
+     <h3>Recent Searches</h3>
+     <div class="js-history-list"></div>
+    </div>
+
+    <button class="clear-history-button js-clear-history">
+     Clear History
+    </button>
+
+  </div>
+
+   <footer class="footer">
+  Built by Ceecee
+  </footer>
+
+
+  <script src="script/app.js"></script>
+</body>
+</html>
